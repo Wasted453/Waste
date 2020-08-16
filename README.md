@@ -1,2 +1,2 @@
 # Waste
-I just a 15 year old boy that wamt to be a software dev 
+I am just a 15 year old boy that want's to become a software dev 
